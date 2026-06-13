@@ -2,6 +2,10 @@
 
 This repository provides the implementation of HiDyc-Det: A Hierarchical Dynamic Calibration Detector for Small Objects in Aerial Scenes.
 
+The overall architecture of HiDyc-Det is shown in the following file:
+
+[View the framework PDF](HiDyC-Det.pdf)
+
 HiDyc-Det is designed for small object detection in aerial scenes. It improves the baseline YOLO detector by enhancing multi-scale contextual representation, feature fusion, and detection calibration for dense, distant, occluded, and low-illumination aerial targets.
 
 Overview
