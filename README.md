@@ -60,12 +60,3 @@ Recommended environment:
 - Ultralytics YOLO11
 
 Install the required dependencies according to your local CUDA and PyTorch environment.
-
-## Training
-
-Training configurations follow the settings reported in the paper.
-
-Example:
-
-```bash
-python train.py
