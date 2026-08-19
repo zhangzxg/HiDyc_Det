@@ -22,7 +22,9 @@ In addition, a **P2 prediction level** is introduced to retain high-resolution i
 
 The overall architecture of HiDyC-Det is shown below:
 
-[View the framework PDF](HiDyC-Det.pdf)
+<p align="center">
+  <img src="HiDyC-Det.png" width="900" alt="Overall architecture of HiDyC-Det">
+</p>
 
 ## Datasets
 
