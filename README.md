@@ -54,6 +54,7 @@ On **TinyPerson**, HiDyC-Det achieves:
 - mAP@0.5:0.95: **7.8%**
 - Parameters: **3.3M**
 - GFLOPs: **13.3G**
+
 HiDyC-Det improves mAP@0.5 and mAP@0.5:0.95 by **4.5** and **1.7 percentage points**, respectively.
 
 ## Requirements
