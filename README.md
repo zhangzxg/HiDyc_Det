@@ -48,7 +48,13 @@ On **VisDrone2019**, HiDyC-Det achieves:
 
 Compared with YOLO11n, the improvements in mAP@0.5 and mAP@0.5:0.95 are **4.1** and **2.8 percentage points**, respectively.
 
-On **TinyPerson**, HiDyC-Det improves mAP@0.5 and mAP@0.5:0.95 by **4.5** and **1.7 percentage points**, respectively.
+On **TinyPerson**, HiDyC-Det achieves:
+
+- mAP@0.5: **23.5%**
+- mAP@0.5:0.95: **7.8%**
+- Parameters: **3.3M**
+- GFLOPs: **13.3G**
+HiDyC-Det improves mAP@0.5 and mAP@0.5:0.95 by **4.5** and **1.7 percentage points**, respectively.
 
 ## Requirements
 
